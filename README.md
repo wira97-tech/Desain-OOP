@@ -75,5 +75,5 @@ Berikut adalah desain OOP untuk aplikasi manajemen data karyawan dengan PHP:
             return $this->employees;
         }
     }
-5. ![Diagram UMLnya:](https://firebasestorage.googleapis.com/v0/b/cart-c80d1.appspot.com/o/Cuplikan%20layar%202024-02-26%20092948.jpg?alt=media&token=20d599e7-0e3c-46ab-a679-0e04c08a937f)
+5. ![Diagram UMLnya:](https://www.dropbox.com/scl/fi/rhkethnvly93hnkdm98ef/Cuplikan-layar-2024-02-26-092948.jpg?rlkey=mhy3ucehgr1mgt301epuf3qp8&dl=0)
 ```
